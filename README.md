@@ -1,0 +1,2 @@
+# QuantTradingPattern
+on QQQ dataset
